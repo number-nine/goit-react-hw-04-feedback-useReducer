@@ -25,7 +25,7 @@ const App = () => {
   };
   return (
     <Container>
-      <h1> HW2-1 </h1>
+      <h1> HW4-1-useReducer </h1>
       <Section title="Please leave feedback">
         <FeedbackOptions {...votes} onLeaveFeedback={handleReviewCounter} />
       </Section>
